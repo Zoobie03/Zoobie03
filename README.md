@@ -1,4 +1,4 @@
-##Hello world! My name is <b>Kévin</b> and i'm a <i>student</i> fullstack JS developper.
+## Hello world! My name is <b>Kévin</b> and i'm a <i>student</i> fullstack JS developper.
 
 <a href="https://app.daily.dev/Zoobie">
   <img 
