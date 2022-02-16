@@ -1,1 +1,1 @@
-# Hi i'm Kévin, a french ReactJS developper
+# Hi i'm Kévin, a french ReactJS developper 🚀
