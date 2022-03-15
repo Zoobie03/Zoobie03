@@ -1,1 +1,1 @@
-# Hi i'm Kévin, a french ReactJS / Symfony developper 🚀
+# Hi i'm Kévin, a french Front-End Developper (React) 🚀
