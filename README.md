@@ -1,1 +1,1 @@
-# Hi i'm Kévin, a french Front-End Developper (React) 🚀
+# Hi i'm Kévin, a student Front-End React Developper 🚀
